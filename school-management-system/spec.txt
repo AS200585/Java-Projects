@@ -1,0 +1,28 @@
+Main Parts - Students, Teachers, Fees
+
+-Keep track of total fees of Students
+-Keep track of total fees already paid
+-Keep track of total fees paid by each student
+-Keep track of total fees remaining for each student
+-Keep track of total salary of Teachers
+
+
+//School
+-Students
+-Teachers
+-Total money(fees) collected
+-Total money spend on teachers salary
+
+
+//Teacher
+-Name
+-ID
+-Total salary
+
+
+//Student
+-Name
+-ID
+-Grade
+-Total fees
+-Total fees paid

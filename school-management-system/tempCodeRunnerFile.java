@@ -1,0 +1,1 @@
+System.out.println("HSPS has paid salary to " + jenny.getName() + " and now has $" + hsps.totalMoneyLeft() + " left");
